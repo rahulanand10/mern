@@ -10,9 +10,9 @@ $carousel-item-height: 300px;
 	margin:0px auto;
 	padding: $pad-up-dn $pad-left-right;
 }
-*{
-    font-size: 20px;
-}
+// *{
+//     // font-size: 20px;
+// }
 .row-header{
     @include zero-margin(0px,0px);
 }
